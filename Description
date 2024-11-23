@@ -1,0 +1,11 @@
+Encryption-Decryption Tool
+
+This project is a simple yet powerful Encryption-Decryption Tool based on the Caesar Cipher algorithm. It allows users to securely encode and decode messages with a user-defined shift value. Ideal for beginners and enthusiasts in cryptography, this project demonstrates the basics of secure text transformation while preserving non-alphabetic characters. 
+
+Features:
+- User-friendly interface for encryption and decryption.
+- Supports both uppercase and lowercase alphabets.
+- Retains non-alphabetic characters without alteration.
+
+Tech Stack:
+- Python: Core language for logic implementation.
